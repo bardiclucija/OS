@@ -1,28 +1,4 @@
 class Tetris {
-    function void start() {
-        do Screen.drawRectangle(200,80,220,150);
-        do Screen.drawRectangle(220,130,250,150);
-        return;
-    }
-
-    function void Lblock_second() {
-        do Screen.drawRectangle(200,100,270,120);
-        do Screen.drawRectangle(200,120,220,150);
-        return;
-    }
-
-    function void Lblock_third() {
-        do Screen.drawRectangle(220,80,240,150);
-        do Screen.drawRectangle(190,80,220,100);
-        return;
-    }
-
-    function void Lblock_fourth() {
-        do Screen.drawRectangle(200,120,270,140);
-        do Screen.drawRectangle(250,90,270,120);
-        return;
-    }
-
     function void move() {
         var int x1, y1;
         var int x2, y2;

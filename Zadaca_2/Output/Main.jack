@@ -1,0 +1,72 @@
+class Main
+{
+    function void main()
+    {
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(98);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        do Output.printChar(99);
+        return;
+    }
+}
